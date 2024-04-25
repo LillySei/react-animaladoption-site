@@ -1,0 +1,18 @@
+.animal-div{
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 20px;
+}
+.adopt-btn{
+    border-radius: 8px;
+    cursor: pointer;
+    border-color: #add8e6;
+    border: 1px solid;
+    color: #add8e6;
+    background-color: white;
+    font-size: 20px;
+    padding: 8px;
+}

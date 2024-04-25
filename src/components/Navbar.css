@@ -1,0 +1,39 @@
+
+.navbar2 {
+    display: flex;
+    align-items: center;
+    padding: 30px;
+    background-color: #add8e6;
+    color: white;
+    z-index:0;
+  }
+
+  .navbar-links {
+    display: flex;
+  }
+  
+  .navbar-links a {
+    margin-right: 15px;
+    color: white;
+    text-decoration: none;
+  }
+  
+  .nav-links a:hover {
+    text-decoration: underline;
+  }
+  .adopted:hover{
+    cursor: pointer;
+  }
+  .login{
+    display: block;
+    flex-grow: 2;
+    color: white !important;
+    text-decoration: none;
+    padding-left: 15px;
+  }
+  .logout{
+
+
+   
+  }
+  

@@ -1,0 +1,23 @@
+.form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.input{
+    margin-top: 20px;
+    width: 215px;
+    font-size: 1rem;
+    padding: 3px;
+    border-color: #add8e6;
+    border-style: solid;
+    height: 48px;
+    width: 400px;
+    font-size: large;
+    border-radius: 8px;
+    border: 1px solid grey;
+    padding-left: 8px;
+}
+.input:hover{
+    cursor: text;
+}
